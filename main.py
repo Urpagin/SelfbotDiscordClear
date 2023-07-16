@@ -23,7 +23,14 @@ async def clearr(ctx: discord.ext.commands.Context, amount: int = 0, links: bool
                 continue
             messages.append(message)
 
-    await ctx.channel.delete_messages(messages)
+    try:
+        await ctx.channel.delete_messages(messages)
+        return
+    except Exception as e:
+        print(e)
+        for msg in messages:
+            await msg.delete()
+
     await ctx.send(f'Deleted {len(messages) - 1} of your messages.', delete_after=5)
 
 
