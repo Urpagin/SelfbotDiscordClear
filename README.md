@@ -17,7 +17,7 @@ A neat Discord selfbot that allows the deletion of own messages.
 2. Get your Discord token
     <details>
       <summary>How to get your Discord token</summary>
-   <p><a href="https://www.youtube.com/watch?v=LnBnm_tZlyU">https://www.youtube.com/watch?v=LnBnm_tZlyU</a><br>
+   <p><a href="https://www.youtube.com/watch?v=YEgFvgg7ZPI">https://www.youtube.com/watch?v=YEgFvgg7ZPI</a><br>
    <a href="https://www.youtube.com/watch?v=LnBnm_tZlyU">(mirror) https://www.youtube.com/watch?v=LnBnm_tZlyU</a></p>
     </details>
 3. Paste your Discord token into the app's terminal
@@ -27,7 +27,7 @@ A neat Discord selfbot that allows the deletion of own messages.
 
 You'll need to build from source
 
-1. Install [Python](https://www.python.org/downloads/)
+1. Install [Python](https://www.python.org/downloads/) (at the time Python 3.10 is required)
 2. Clone the repository <br>
    ```shell
    git clone https://github.com/Urpagin/SelfbotDiscordClear.git
@@ -40,11 +40,12 @@ You'll need to build from source
    ```shell
    python main.py
    ```
-5. Get your token in the Windows section then see [Usage](#Usage)
+5. Get your token in the [Windows](#-windows) section then see [Usage](#usage)
 
 ## Usage
 
-Once the app is successfully running:
+🛑 **`!clearr` not `!clear`, don't forget the 2 RR**
+
 
 ### ⚒️ How to use ⚒️
 
@@ -60,11 +61,9 @@ Once the app is successfully running:
 
 ## Common errors
 
-1. In the terminal you might see <br>
-   `WARNING  discord.gateway Gateway is ratelimited, waiting 57.50 seconds.`<br>
+1. `WARNING  discord.gateway Gateway is ratelimited, waiting 57.50 seconds.`<br>
    You may not be able to delete any messages during the timespan specified, wait and it will pass.
-2. In the terminal you might see <br>
-   `WARNING  discord.http We are being rate limited. DELETE https://discord.com/api/v9/channels/<id>/messages/<id> responded with 429. Retrying in 1.53 seconds.`<br>
+2. `WARNING  discord.http We are being rate limited. DELETE https://discord.com/api/v9/channels/<id>/messages/<id> responded with 429. Retrying in 1.53 seconds.`<br>
    This is a non issue as mass deleting messages isn't the normal behavior of a user, wait and it will pass.
 
 ## Legal
