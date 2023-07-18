@@ -4,10 +4,10 @@ A neat Discord selfbot that allows the deletion of own messages.
 
 ## Table of contents
 
-- [Installation](#Installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Common Errors](#common-errors)
-- [Legal](#Legal)
+- [Legal](#legal)
 
 ## Installation
 
