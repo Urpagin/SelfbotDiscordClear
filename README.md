@@ -63,7 +63,7 @@ Once the app is successfully running:
 1. In the terminal you might see <br>
    `WARNING  discord.gateway Gateway is ratelimited, waiting 57.50 seconds.`<br>
    You may not be able to delete any messages during the timespan specified, wait and it will pass.
-2. In the terminal you might se <br>
+2. In the terminal you might see <br>
    `WARNING  discord.http We are being rate limited. DELETE https://discord.com/api/v9/channels/<id>/messages/<id> responded with 429. Retrying in 1.53 seconds.`<br>
    This is a non issue as mass deleting messages isn't the normal behavior of a user, wait and it will pass.
 
