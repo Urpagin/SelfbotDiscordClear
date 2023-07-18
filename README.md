@@ -1,6 +1,8 @@
 # SelfbotDiscordClear
 
-A neat Discord selfbot that allows the deletion of own messages.
+A neat Discord selfbot that allows the deletion of own messages. <br>
+
+![selfbot-discord-clear-demo](https://github.com/Urpagin/SelfbotDiscordClear/assets/72459611/ac5d1c66-8ed3-4215-a6b3-e9152365b1c1) <br>
 
 ## Table of contents
 
@@ -44,8 +46,7 @@ You'll need to build from source
 
 ## Usage
 
-🛑 **`!clearr` not `!clear`, don't forget the 2 RR**
-
+🛑 **`!clearr` not `!clear`, don't forget the 2 RR** <br>
 
 ### ⚒️ How to use ⚒️
 
