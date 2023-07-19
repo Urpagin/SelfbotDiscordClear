@@ -8,8 +8,8 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [windows-latest, ubuntu-latest, macos-latest]
-        architecture: ['x64', 'x86']
+        os: [windows-latest, ubuntu-latest]
+        architecture: ['x64']
 
     steps:
     - name: Checkout code
