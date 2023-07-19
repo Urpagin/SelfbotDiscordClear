@@ -70,4 +70,5 @@ You'll need to build from source
 ## Legal
 Selfbots are against Discord's Terms of Service.<br>
 > **Automating normal user accounts (generally called "self-bots") outside of the OAuth2/bot API is forbidden, and can result in an account termination if found.**<br>
-> https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
+
+https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-
