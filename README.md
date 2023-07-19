@@ -23,7 +23,7 @@ A neat Discord selfbot that allows the deletion of own messages. <br>
    <a href="https://www.youtube.com/watch?v=LnBnm_tZlyU">(mirror) https://www.youtube.com/watch?v=LnBnm_tZlyU</a></p>
     </details>
 3. Paste your Discord token into the app's terminal
-4. See [usage](#Usage)
+4. See [Usage](#usage)
 
 ### 🐧 Linux/Mac/Source 🍎
 
