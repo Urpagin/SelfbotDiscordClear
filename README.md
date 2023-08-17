@@ -46,7 +46,7 @@ You'll need to build from source
 
 ## Usage
 
-🛑 **`!clearr` not `!clear`, don't forget the 2 RR** <br>
+🛑 **`!clearr` not `!clear`, don't forget the 2 RRs** <br>
 
 ### ⚒️ How to use ⚒️
 
